@@ -12,6 +12,6 @@ Various Links
 * [My website (version 3)](https://stanleeeeey.github.io/)
 * [My goodreads profile](https://www.goodreads.com/user/show/119245903-stanis-aw-kawulok)
 * [Blog ](https://stanleeeeey.github.io/#blog)
-* [Hangman Game]([https://stanleeeeey.github.io/hangman.html](https://stanleeeeey.github.io/hangman/hangman.html))
+* [Hangman Game](https://stanleeeeey.github.io/hangman/hangman.html)
 
 
