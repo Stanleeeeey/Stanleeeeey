@@ -10,8 +10,10 @@ I love coding all kinds of stuff.
 
 Various Links
 * [My website (version 3)](https://stanleeeeey.github.io/)
+* [Hangman Game (computer only)](https://stanleeeeey.github.io/hangman/hangman.html)
+
+Social Media
+* [My linkedin profile](https://www.linkedin.com/in/stanis%C5%82aw-kawulok-176466308/)
 * [My goodreads profile](https://www.goodreads.com/user/show/119245903-stanis-aw-kawulok)
-* [Blog ](https://stanleeeeey.github.io/#blog)
-* [Hangman Game](https://stanleeeeey.github.io/hangman/hangman.html)
 
 
